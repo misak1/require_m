@@ -1,0 +1,16 @@
+var M = require('./index.js');
+// M.setWidth(15);
+// M.setText("(-");
+var browserify = M.require('browserify');
+var express = M.require('express');
+var pm2 = M.require('pm2');
+var karma = M.require('karma');
+var bower = M.require('bower');
+var cordova = M.require('cordova');
+var gulp = M.require('gulp');
+var grunt = M.require('grunt');
+var jade = M.require('jade');
+var forever = M.require('forever');
+var less = M.require('less');
+var sass = M.require('sass');
+var stylus = M.require('stylus');

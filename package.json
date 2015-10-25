@@ -1,0 +1,45 @@
+{
+  "name": "require_m",
+  "version": "0.0.1",
+  "description": "require Time Check.",
+  "main": "index.js",
+  "engines": {
+    "node": "~>0.10.x",
+    "npm": ">= 1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misak1/require_m.git"
+  },
+  "scripts": {},
+  "author": {
+    "name": "Misaki Shibata",
+    "email": "misaki.pink@gmail.com",
+    "url": ""
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/misak1/require_m/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.6.5",
+    "browserify": "^11.2.0",
+    "cordova": "^5.3.3",
+    "express": "^4.13.3",
+    "forever": "^0.15.1",
+    "grunt": "^0.4.5",
+    "gulp": "^3.9.0",
+    "imagemin": "^3.2.2",
+    "jade": "^1.11.0",
+    "karma": "^0.13.14",
+    "less": "^2.5.3",
+    "npm": "^3.3.9",
+    "pm2": "^0.15.7",
+    "promise": "^7.0.4",
+    "sass": "^0.5.0",
+    "should": "^7.1.1",
+    "statsd": "^0.7.2",
+    "stylus": "^0.52.4"
+  }
+}
